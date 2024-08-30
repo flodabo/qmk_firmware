@@ -5,7 +5,7 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [flodabo](https://github.com/flodabo)
-* Hardware Supported: *The PCBs, controllers supported*
+* Hardware Supported: RP2040
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
